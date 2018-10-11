@@ -1,0 +1,31 @@
+.wrapper{
+	background-color: yellowgreen;
+	height: 100%;
+	padding: 8px;
+}
+
+.header{
+	background-color: aqua;
+	height: 200px;
+}	
+
+.nav{
+	background-color: blueviolet;
+	min-height: 100px;
+	display: inline;
+}	
+
+.nav-content{
+	width: 100%;
+}
+
+.content{
+	background-color: brown;
+	min-height: 100px;
+	display: inline;
+}
+
+.footer{
+	background-color: burlywood;
+	height: 200px;
+}
